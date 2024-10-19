@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Fivem Server**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: kenzo7z on discord</h3>
 <p align="left">
 </p>
 
