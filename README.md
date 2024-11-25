@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Kenzo</h1>
 <h3 align="center">I'm a Fivem Developer Looking To Work On projects</h3>
 
-- 🔭 I’m currently working on [GEM PUBLIC](https://discord.gg/gem5m)
+- 🔭 I’m currently working on [GEM PUBLIC](https://discord.gg/gemrp)
 
 - 👯 I’m looking to collaborate on **Fivem Server**
 
